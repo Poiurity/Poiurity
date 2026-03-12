@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=Poiurity&fontSize=70&desc=Flutter&descAlign=60&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=200&section=header&text=Poiurity&fontSize=70&desc=Flutter,%20Web&descAlign=60&descAlignY=70" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Yeonguk</h1>
